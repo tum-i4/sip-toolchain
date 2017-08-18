@@ -1,0 +1,6 @@
+[submodule "self-checksumming"]
+	path = self-checksumming
+	url = git@github.com:tum-i22/sip-self-checksumming.git
+[submodule "oblivious-hashing"]
+	path = oblivious-hashing
+	url = git@github.com:tum-i22/sip-oblivious-hashing.git
