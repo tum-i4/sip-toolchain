@@ -4,3 +4,9 @@
 [submodule "oblivious-hashing"]
 	path = oblivious-hashing
 	url = git@github.com:tum-i22/sip-oblivious-hashing.git
+[submodule "stins4llvm"]
+	path = stins4llvm
+	url = git@github.com:tum-i22/sip-stins4llvm.git
+[submodule "control-flow-integrity"]
+	path = control-flow-integrity
+	url = git@github.com:tum-i22/sip-control-flow-integrity.git
